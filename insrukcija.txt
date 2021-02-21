@@ -1,0 +1,8 @@
+Kompilēšana:
+  javac *.java
+
+Testēšana:
+  java Main
+
+Burtu skaitīšana:
+  java Main input.txt
